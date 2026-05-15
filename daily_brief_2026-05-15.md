@@ -1,10 +1,13 @@
 # Daily Brief 2026-05-15
 
-## AI & Tech News
-- **AI Breakthroughs**: Recherche en cours...
-- **GitHub Trends**: Recherche en cours...
+## Status
+- **Veille**: Active (Web Search fallback)
+- **Système**: Stable (6/6 services UP)
+- **GPU**: VRAM OK (0% util)
 
-## System Status
-- RSS Parser: Defective (Switched to web_search)
-- GPU: Idle
-- Services: UP
+## Key Findings
+- *En cours de collecte...*
+
+## Actions
+- Migration vers web_search pour la veille tech
+- Publication automatique des rapports
