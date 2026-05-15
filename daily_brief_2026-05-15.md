@@ -1,13 +1,13 @@
 # Daily Brief 2026-05-15
 
-## Status
-- **Veille**: Active (Web Search fallback)
-- **Système**: Stable (6/6 services UP)
-- **GPU**: VRAM OK (0% util)
+**Status:** RSS Parser Down. Switching to Web Search mode.
 
-## Key Findings
-- *En cours de collecte...*
+**Context:**
+- RSS Check failed to parse reliably.
+- Initiating direct web search for tech news.
+- System health: Stable (6/6 services up).
+- GPU: Idle.
 
-## Actions
-- Migration vers web_search pour la veille tech
-- Publication automatique des rapports
+**Next Steps:**
+- Analyze search results for key insights.
+- Update system_state.py module.
